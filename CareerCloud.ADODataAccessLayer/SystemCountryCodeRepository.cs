@@ -62,7 +62,7 @@ namespace CareerCloud.ADODataAccessLayer
                 connection.Open();
                 int index = 0;
                 SqlDataReader sqlReader = comm.ExecuteReader();
-                SystemCountryCodePoco[] pocos = new SystemCountryCodePoco[20];
+                SystemCountryCodePoco[] pocos = new SystemCountryCodePoco[50];
 
                 while (sqlReader.Read())
                 {
