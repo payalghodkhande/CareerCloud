@@ -21,7 +21,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CareerCloudCore.UnitTests.A
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CareerCloud.WebAPI", "CareerCloud.WebAPI\CareerCloud.WebAPI.csproj", "{7D617A0F-6EFA-4C84-A40E-A3DC228F301D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CareerCloudCore.UnitTests.Assignment5", "..\CareerCloudCore.UnitTests.Assignment5\CareerCloudCore.UnitTests.Assignment5.csproj", "{30F61E60-E7DF-4FF7-B495-E86F82C047E0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CareerCloudCore.UnitTests.Assignment5", "CareerCloudCore.UnitTests.Assignment5\CareerCloudCore.UnitTests.Assignment5.csproj", "{566E44DF-3D17-4983-964D-C2DC681798CD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CareerCloudCore.UnitTests.Assignment3", "CareerCloudCore.UnitTests.Assignment3\CareerCloudCore.UnitTests.Assignment3.csproj", "{E5580045-5054-434D-A80D-3323348A7EA1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -65,10 +67,14 @@ Global
 		{7D617A0F-6EFA-4C84-A40E-A3DC228F301D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7D617A0F-6EFA-4C84-A40E-A3DC228F301D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7D617A0F-6EFA-4C84-A40E-A3DC228F301D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{30F61E60-E7DF-4FF7-B495-E86F82C047E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{30F61E60-E7DF-4FF7-B495-E86F82C047E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{30F61E60-E7DF-4FF7-B495-E86F82C047E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{30F61E60-E7DF-4FF7-B495-E86F82C047E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{566E44DF-3D17-4983-964D-C2DC681798CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{566E44DF-3D17-4983-964D-C2DC681798CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{566E44DF-3D17-4983-964D-C2DC681798CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{566E44DF-3D17-4983-964D-C2DC681798CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5580045-5054-434D-A80D-3323348A7EA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5580045-5054-434D-A80D-3323348A7EA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5580045-5054-434D-A80D-3323348A7EA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5580045-5054-434D-A80D-3323348A7EA1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
